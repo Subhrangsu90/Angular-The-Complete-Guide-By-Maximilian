@@ -1,6 +1,6 @@
 # Angular - The Complete Guide (2024 Edition) by Maximilian Schwarzmüller
 
-Welcome to the repository for the "[Angular - The Complete Guide (2024 Edition)](https://www.udemy.com/share/101WgA3@WX0LC_YedmBYRcJJCUku8OOleGzomC_NOmvyG-VyscMT4ks5H8arch36wTZm2SQ9-Q==/)" course by Maximilian Schwarzmüller. This repository contains all the course projects, code examples, and additional resources provided throughout the course.
+Welcome to the repository for the [Angular - The Complete Guide (2024 Edition)](https://www.udemy.com/share/101WgA3@WX0LC_YedmBYRcJJCUku8OOleGzomC_NOmvyG-VyscMT4ks5H8arch36wTZm2SQ9-Q==/) course by Maximilian Schwarzmüller. This repository contains all the course projects, code examples, and additional resources provided throughout the course.
 
 ## Table of Contents
 
