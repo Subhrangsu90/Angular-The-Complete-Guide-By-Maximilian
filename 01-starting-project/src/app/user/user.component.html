@@ -1,9 +1,9 @@
 <div>
   <button (click)="onSelectUser()">
-    <img [src]="imagePath()" [alt]="selectedUser().name" />
+    <img [src]="imagePath" [alt]="user.name" />
     <!-- Property Binding : <img [src]="someSrc"> binds the src property of the underlying HTMLImageElement DOM object to the value stored in someSrc -->
 
-    <span>{{ selectedUser().name }}</span>
+    <span>{{ user.name }}</span>
     <!-- String  Binding -->
   </button>
 </div>
