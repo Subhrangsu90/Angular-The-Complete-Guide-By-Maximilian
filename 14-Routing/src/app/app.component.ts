@@ -5,10 +5,9 @@ import { HeaderComponent } from './header/header.component';
 import { UsersComponent } from './users/users.component';
 
 @Component({
-  selector: 'app-root',
-  standalone: true,
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.css',
-  imports: [HeaderComponent, UsersComponent, RouterOutlet],
+    selector: 'app-root',
+    imports: [HeaderComponent, UsersComponent, RouterOutlet],
+    templateUrl: './app.component.html',
+    styleUrl: './app.component.css',
 })
 export class AppComponent { }

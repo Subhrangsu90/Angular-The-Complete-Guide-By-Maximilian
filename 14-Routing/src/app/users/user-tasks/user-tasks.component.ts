@@ -4,7 +4,6 @@ import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-user-tasks',
-  standalone: true,
   templateUrl: './user-tasks.component.html',
   styleUrl: './user-tasks.component.css',
 })
